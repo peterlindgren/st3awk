@@ -1,0 +1,26 @@
+[
+    {
+        "caption": "Awk: Run expression inplace",
+        "command": "awk_run",
+        "args": {"inplace": true}
+    },
+    {
+        "caption": "Awk: Run expression new tab",
+        "command": "awk_run",
+        "args": {"inplace": false}
+    },
+    {
+        "caption": "Awk: Run script inplace",
+        "command": "awk_run",
+        "args": {"inplace": true, "script": true}
+    },
+    {
+        "caption": "Awk: Run script new tab",
+        "command": "awk_run",
+        "args": {"inplace": false, "script": true}
+    },
+    {
+        "caption": "Awk: Open script",
+        "command": "awk_open",
+    }
+]
